@@ -1,0 +1,1 @@
+PythonStudy is a program for learning Python, with 168 lessons in 13 chapters, from the basics to advanced topics. Each lesson shows code with an explanation in English or German. You can edit and run the code right in the program, but your changes are not saved. A quiz asks what a piece of code prints or what it does. Your notes and your own lessons are saved.
